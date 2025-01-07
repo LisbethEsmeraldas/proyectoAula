@@ -1,0 +1,5 @@
+{
+	"appId": "com.example.app",
+	"appName": "prm-app",
+	"webDir": "dist/spa"
+}
