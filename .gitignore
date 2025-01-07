@@ -1,0 +1,12 @@
+# Ignorar archivos .dex
+*.dex
+
+# Ignorar la carpeta node_modules (común en proyectos JavaScript)
+node_modules/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de compilación
+/dist
+/build
